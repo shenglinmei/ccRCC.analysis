@@ -1,4 +1,4 @@
-## A new transcriptional metastatic signature predicts survival in clear cell renal cell carcinoma
+## A transcriptional metastatic signature predicts survival in clear cell renal cell carcinoma
 
 Interactive views of Conos results:
 The following links provide interactive views to the Conos joint alignment results shown in the manuscript: (Please use Firefox or Chrome) 
