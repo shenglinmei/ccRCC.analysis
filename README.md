@@ -12,6 +12,14 @@ Tutorial video:
 - Analysis of stroma cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//RCC/download/apps//stroma.all.bin) [embedding :blue_book:](https://www.dropbox.com/s/evibkml6kesqyyg/stroma.UMAP.png?dl=0) [cell annotation & clusters :arrow_down:](https://www.dropbox.com/s/1pea2wqump4zok7/stroma.cells.csv?dl=0)
 
 
+## Data resource:
+- raw count matrixes  [download link :arrow_up_down:](https://www.dropbox.com/s/2c46r5hygxdwn14/raw.counts.rds?dl=0)
+- Cell annotations  [download link :arrow_up_down:](https://www.dropbox.com/s/i2cjyqghs6jwaiu/cell.ano.csv?dl=0)
+- Conos object for joint analysis of all samples  [download link :arrow_up_down:](https://www.dropbox.com/s/pp3rl511z3ecbs4/conos.RCC.all.rds?dl=0)
+- Conos object for joint analysis of Myeloid cells  [download link :arrow_up_down:](https://www.dropbox.com/s/hzhlmq4lrqrzwdh/conos.RCC.myeloid.rds?dl=0)
+- Conos object for joint analysis of Stromal cells  [download link :arrow_up_down:](https://www.dropbox.com/s/n0zlrgm77nsojbp/conos.RCC.stromal.rds?dl=0)
+- Conos object for joint analysis of T cells  [download link :arrow_up_down:](https://www.dropbox.com/s/ihlq65url1xir1p/conos.RCC.Tcell.rds?dl=0)
+
 
 ## Code availability:
 The accession numbers for the raw sequencing data and processed data in this paper are under the accession number: [GSE178481](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE178481).
