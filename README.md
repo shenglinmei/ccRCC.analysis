@@ -27,4 +27,4 @@ All other code is available upon request.
 - Conos object for joint analysis of Myeloid cells  [download link :arrow_up_down:](https://www.dropbox.com/s/hzhlmq4lrqrzwdh/conos.RCC.myeloid.rds?dl=0)
 - Conos object for joint analysis of Stromal cells  [download link :arrow_up_down:](https://www.dropbox.com/s/n0zlrgm77nsojbp/conos.RCC.stromal.rds?dl=0)
 - Conos object for joint analysis of T cells  [download link :arrow_up_down:](https://www.dropbox.com/s/ihlq65url1xir1p/conos.RCC.Tcell.rds?dl=0)
-![image](https://user-images.githubusercontent.com/1990871/218798714-d65df14f-4b89-42b1-890b-dab4f283e886.png)
+
